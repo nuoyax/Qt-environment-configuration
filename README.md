@@ -10,7 +10,7 @@ Prerequisites:
 
 Perl http://www.activestate.com/activeperl
 Python http://www.python.org/download/
-Download Qt source zip from https://www.qt.io/offline-installers
+Download Qt source zip from https://download.qt.io/archive/qt/5.12/5.12.10/
 
 
 
