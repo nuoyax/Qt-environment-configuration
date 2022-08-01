@@ -32,6 +32,11 @@ Run x86 Native Tools Command Prompt for VS 2019
 
 `nmake install`
 
+or
+multi-thread accelerate to compile
+
+`D:\Qt5.12\Tools\QtCreator\bin\jom\jom.exe  install`
+
 
 
 notes: to disabled  `-no-feature-d3d12` for fix window 7 running for normal
