@@ -19,11 +19,17 @@ Extract, e.g. to C:\Qt\qt-5.15.0-src
 Run x86 Native Tools Command Prompt for VS 2019
 
 `cd C:\Qt\qt-5.15.0-src`
+
 `mkdir ..\qt-5.15.0-static`
+
 `set QTDIR=C:\Qt\qt-5.15.0-src\qtbase`
+
 `set PATH=C:\Qt\qt-5.15.0-src\qtbase\bin;%PATH%`
+
 `configure.bat -prefix d:\5.12.0_static-nod3d12 -debug-and-release -confirm-license -opensource -nomake examples -nomake tests -nomake tools -static -static-runtime -opengl  -no-feature-d3d12 -no-feature-accessibility -skip qtconnectivity`
+
 `nmake`
+
 `nmake install`
 
 
