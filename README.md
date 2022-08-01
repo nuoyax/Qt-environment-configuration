@@ -37,9 +37,7 @@ multi-thread accelerate to compile
 
 `D:\Qt5.12\Tools\QtCreator\bin\jom\jom.exe  install`
 
-
-
-notes: to disabled  `-no-feature-d3d12` for fix window 7 running for normal
+notes: Fix Windows 7 issues by disabling `-no-feature-d3d12`
 
 Some documentation for configure is at https://doc.qt.io/qt-5/configure-options.html
 
